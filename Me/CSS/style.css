@@ -1,0 +1,5 @@
+.Main {padding: 100px 0;}
+.Main .image-area{border-style: solid; border-color: black; border-width: 1px;border-radius: 6px;}
+.Main .image-area .image-main{display: table;margin: 0 auto;}
+.Main .image-area .image-main .product-image {display: table-cell;height: 150px;vertical-align: middle;}
+
